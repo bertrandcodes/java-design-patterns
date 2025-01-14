@@ -1,3 +1,5 @@
+<!-- COMPLETED -->
+
 ---
 title: "Singleton Pattern in Java: Implementing Global Access Points in Java Applications"
 shortTitle: Singleton
